@@ -1,5 +1,6 @@
 # 🤖 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+I'm+Cristian+Welcome%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif" width="60">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P+&size=25&duration=4000&pause=1000&color=25C517&center=true&width=435&lines=I'm+Cristian+Welcome%F0%9F%91%8B;Software+developer+student)](https://git.io/typing-svg)
 
 Student Analyst Programmer at DUOC.UC || Junior Developer || Self-taught<br><br>⚙️ Skills and Knowledge<br><br>🧠 KNOWLEDGE<br>📌Data analysis with Power BI<br>📌Fundamentals of BIG DATA.<br>📌Python Programming<br>📌Intermediate English. A2...<br>📌SQL<br>📌SAP<br>📌JIRA
 
